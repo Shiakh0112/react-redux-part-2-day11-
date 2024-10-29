@@ -1,0 +1,8 @@
+// src/redux/actionTypes.js
+export const FETCH_QUESTIONS_REQUEST = "FETCH_QUESTIONS_REQUEST";
+export const FETCH_QUESTIONS_SUCCESS = "FETCH_QUESTIONS_SUCCESS";
+export const FETCH_QUESTIONS_FAILURE = "FETCH_QUESTIONS_FAILURE";
+export const SUBMIT_SCORE = "SUBMIT_SCORE";
+
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
